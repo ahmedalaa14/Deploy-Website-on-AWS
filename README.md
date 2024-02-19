@@ -1,4 +1,4 @@
-# Steps to deploy website on AWS 
+# Steps to deploy website on AWS .
 
 Step 1:
 
